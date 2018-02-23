@@ -5,7 +5,7 @@
         {
           "appID": "CR2N2MDA2Q.com.taucraft.TargetProcess",
           "paths": [
-            "/restui/*/bug/123"
+            "/restui/*?page=*"
           ]
         }
       ]
