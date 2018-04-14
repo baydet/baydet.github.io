@@ -5,6 +5,8 @@
         {
           "appID": "CR2N2MDA2Q.com.taucraft.TargetProcess",
           "paths": [
+            "/*/entity/*",
+            "/*/userstory/*",
             "*"
           ]
         }
